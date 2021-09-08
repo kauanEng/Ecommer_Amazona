@@ -8,6 +8,7 @@ import {
   Typography,
   Link,
   createMuiTheme,
+  createTheme,
   ThemeProvider,
   CssBaseline,
   Switch,
