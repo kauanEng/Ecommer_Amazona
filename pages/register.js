@@ -16,6 +16,7 @@ import useStyles from '../utils/stylesLayout';
 import Cookies from 'js-cookie';
 import { Controller, useForm } from 'react-hook-form';
 import { useSnackbar } from 'notistack';
+import { getError } from '../utils/error';
 
 export default function Register() {
   const {

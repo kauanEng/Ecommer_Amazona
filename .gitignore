@@ -2,6 +2,7 @@
 
 # dependencies
 /node_modules
+/package.json
 /.pnp
 .pnp.js
 
@@ -10,6 +11,7 @@
 
 # next.js
 /.next/
+/package/
 /out/
 
 # production
@@ -33,3 +35,6 @@ yarn-error.log*
 # vercel
 .vercel
 .env
+
+#json
+.package.json
